@@ -1,0 +1,16 @@
+{
+  "name": "betgenie",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-Powered Sports Betting Intelligence Platform by Mohn Empire",
+  "author": "Mohn Empire",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
