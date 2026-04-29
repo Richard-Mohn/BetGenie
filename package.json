@@ -1,16 +1,44 @@
 {
   "name": "betgenie",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "AI-Powered Sports Betting Intelligence Platform by Mohn Empire",
   "author": "Mohn Empire",
   "license": "UNLICENSED",
+  "workspaces": [
+    "apps/*",
+    "services/*",
+    "packages/*"
+  ],
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "cd apps/web && npm run dev",
+    "dev:web": "cd apps/web && npm run dev",
+    "build": "cd apps/web && npm run build",
+    "build:web": "cd apps/web && npm run build",
+    "start": "cd apps/web && npm start",
+    "lint": "cd apps/web && npm run lint",
+    "emulators": "firebase emulators:start",
+    "emulators:seed": "firebase emulators:start --import=./firebase-data --export-on-exit",
+    "deploy:functions": "firebase deploy --only functions",
+    "deploy:rules": "firebase deploy --only firestore:rules,storage:rules",
+    "deploy:hosting": "npm run build && firebase deploy --only hosting",
+    "deploy:all": "npm run build && firebase deploy",
+    "deploy:hosting:preview": "npm run build && firebase hosting:channel:deploy preview",
+    "firebase:login": "firebase login",
+    "firebase:init": "firebase init",
+    "firebase:projects:list": "firebase projects:list",
+    "gcp:enable-apis": "gcloud services enable run.googleapis.com firestore.googleapis.com cloudbuild.googleapis.com cloudfunctions.googleapis.com cloudscheduler.googleapis.com",
+    "cloud-run:deploy:nba": "cd cloud-services/nba_data_ingestion && gcloud run deploy nba-data-ingestion --source . --region=us-central1 --platform=managed",
+    "cloud-run:deploy:odds": "cd cloud-services/odds_aggregation && gcloud run deploy odds-aggregation --source . --region=us-central1 --platform=managed",
+    "cloud-run:deploy:news": "cd cloud-services/news_monitoring && gcloud run deploy news-monitoring --source . --region=us-central1 --platform=managed",
+    "cloud-run:deploy:ai": "cd cloud-services/ai_analysis && gcloud run deploy ai-analysis --source . --region=us-central1 --platform=managed"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
 }

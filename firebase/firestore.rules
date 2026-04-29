@@ -1,0 +1,116 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && request.auth.token.admin == true;
+    }
+
+    // Users collection - users can read/write their own data
+    match /users/{userId} {
+      allow read, write: if isOwner(userId) || isAdmin();
+    }
+    
+    // User preferences
+    match /users/{userId}/preferences/{doc} {
+      allow read, write: if isOwner(userId) || isAdmin();
+    }
+    
+    // User bankroll/betting history
+    match /users/{userId}/bets/{doc} {
+      allow read, write: if isOwner(userId) || isAdmin();
+    }
+    
+    // NBA Games - public read, admin write
+    match /games/{gameId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Players - public read, admin write
+    match /players/{playerId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Player stats - public read, admin write
+    match /player_stats/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Odds - public read, admin write
+    match /odds/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Picks/Parlays - public read, admin write
+    match /picks/{pickId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    match /parlays/{parlayId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Exotic bets - public read, admin write
+    match /exotic_bets/{betId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Kicker bets - public read, admin write
+    match /kicker_bets/{betId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // News events - public read, admin write
+    match /news_events/{eventId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Player impact scores - public read, admin write
+    match /impact_scores/{playerId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // AI analysis results - public read, admin write
+    match /ai_analysis/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Consensus data - public read, admin write
+    match /consensus/{doc} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Daily reports - public read, admin write
+    match /daily_reports/{reportId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // System config - admin only
+    match /system_config/{doc} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+  }
+}

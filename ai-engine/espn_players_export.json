@@ -1,0 +1,4844 @@
+[
+  {
+    "player_id": "nickeil_alexander_walker",
+    "full_name": "Nickeil Alexander-Walker",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tony_bradley",
+    "full_name": "Tony Bradley",
+    "team": "Atlanta Hawks",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dyson_daniels",
+    "full_name": "Dyson Daniels",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rayj_dennis",
+    "full_name": "RayJ Dennis",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keshon_gilbert",
+    "full_name": "Keshon Gilbert",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mouhamed_gueye",
+    "full_name": "Mouhamed Gueye",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "buddy_hield",
+    "full_name": "Buddy Hield",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "caleb_houstan",
+    "full_name": "Caleb Houstan",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_johnson",
+    "full_name": "Jalen Johnson",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "corey_kispert",
+    "full_name": "Corey Kispert",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "christian_koloko",
+    "full_name": "Christian Koloko",
+    "team": "Atlanta Hawks",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jonathan_kuminga",
+    "full_name": "Jonathan Kuminga",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jock_landale",
+    "full_name": "Jock Landale",
+    "team": "Atlanta Hawks",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cj_mccollum",
+    "full_name": "CJ McCollum",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "asa_newell",
+    "full_name": "Asa Newell",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "onyeka_okongwu",
+    "full_name": "Onyeka Okongwu",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zaccharie_risacher",
+    "full_name": "Zaccharie Risacher",
+    "team": "Atlanta Hawks",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gabe_vincent",
+    "full_name": "Gabe Vincent",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keaton_wallace",
+    "full_name": "Keaton Wallace",
+    "team": "Atlanta Hawks",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dalano_banton",
+    "full_name": "Dalano Banton",
+    "team": "Boston Celtics",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaylen_brown",
+    "full_name": "Jaylen Brown",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "luka_garza",
+    "full_name": "Luka Garza",
+    "team": "Boston Celtics",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "hugo_gonzalez",
+    "full_name": "Hugo Gonzalez",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ron_harper_jr.",
+    "full_name": "Ron Harper Jr.",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sam_hauser",
+    "full_name": "Sam Hauser",
+    "team": "Boston Celtics",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "payton_pritchard",
+    "full_name": "Payton Pritchard",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "neemias_queta",
+    "full_name": "Neemias Queta",
+    "team": "Boston Celtics",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "baylor_scheierman",
+    "full_name": "Baylor Scheierman",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "max_shulga",
+    "full_name": "Max Shulga",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jayson_tatum",
+    "full_name": "Jayson Tatum",
+    "team": "Boston Celtics",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "john_tonje",
+    "full_name": "John Tonje",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nikola_vucevic",
+    "full_name": "Nikola Vucevic",
+    "team": "Boston Celtics",
+    "position": "Center",
+    "age": 35,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_walsh",
+    "full_name": "Jordan Walsh",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "derrick_white",
+    "full_name": "Derrick White",
+    "team": "Boston Celtics",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "amari_williams",
+    "full_name": "Amari Williams",
+    "team": "Boston Celtics",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ochai_agbaji",
+    "full_name": "Ochai Agbaji",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nic_claxton",
+    "full_name": "Nic Claxton",
+    "team": "Brooklyn Nets",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "noah_clowney",
+    "full_name": "Noah Clowney",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "egor_demin",
+    "full_name": "Egor Demin",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyson_etienne",
+    "full_name": "Tyson Etienne",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chaney_johnson",
+    "full_name": "Chaney Johnson",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "e.j._liddell",
+    "full_name": "E.J. Liddell",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "terance_mann",
+    "full_name": "Terance Mann",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_minott",
+    "full_name": "Josh Minott",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "michael_porter_jr.",
+    "full_name": "Michael Porter Jr.",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "drake_powell",
+    "full_name": "Drake Powell",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ben_saraf",
+    "full_name": "Ben Saraf",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trevon_scott",
+    "full_name": "Trevon Scott",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "day'ron_sharpe",
+    "full_name": "Day'Ron Sharpe",
+    "team": "Brooklyn Nets",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "malachi_smith",
+    "full_name": "Malachi Smith",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nolan_traore",
+    "full_name": "Nolan Traore",
+    "team": "Brooklyn Nets",
+    "position": "Point Guard",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ziaire_williams",
+    "full_name": "Ziaire Williams",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_wilson",
+    "full_name": "Jalen Wilson",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "danny_wolf",
+    "full_name": "Danny Wolf",
+    "team": "Brooklyn Nets",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lamelo_ball",
+    "full_name": "LaMelo Ball",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "miles_bridges",
+    "full_name": "Miles Bridges",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pat_connaughton",
+    "full_name": "Pat Connaughton",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "moussa_diabate",
+    "full_name": "Moussa Diabate",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tosan_evbuomwan",
+    "full_name": "Tosan Evbuomwan",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_green",
+    "full_name": "Josh Green",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pj_hall",
+    "full_name": "PJ Hall",
+    "team": "Charlotte Hornets",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sion_james",
+    "full_name": "Sion James",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ryan_kalkbrenner",
+    "full_name": "Ryan Kalkbrenner",
+    "team": "Charlotte Hornets",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kon_knueppel",
+    "full_name": "Kon Knueppel",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tre_mann",
+    "full_name": "Tre Mann",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "liam_mcneeley",
+    "full_name": "Liam McNeeley",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brandon_miller",
+    "full_name": "Brandon Miller",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "antonio_reeves",
+    "full_name": "Antonio Reeves",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tidjane_salaun",
+    "full_name": "Tidjane Salaun",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "xavier_tillman",
+    "full_name": "Xavier Tillman",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "coby_white",
+    "full_name": "Coby White",
+    "team": "Charlotte Hornets",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "grant_williams",
+    "full_name": "Grant Williams",
+    "team": "Charlotte Hornets",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "matas_buzelis",
+    "full_name": "Matas Buzelis",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zach_collins",
+    "full_name": "Zach Collins",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rob_dillingham",
+    "full_name": "Rob Dillingham",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "noa_essengue",
+    "full_name": "Noa Essengue",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_giddey",
+    "full_name": "Josh Giddey",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mouhamadou_gueye",
+    "full_name": "Mouhamadou Gueye",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tre_jones",
+    "full_name": "Tre Jones",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "yuki_kawamura",
+    "full_name": "Yuki Kawamura",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mac_mcclung",
+    "full_name": "Mac McClung",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "leonard_miller",
+    "full_name": "Leonard Miller",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaac_okoro",
+    "full_name": "Isaac Okoro",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lachlan_olbrich",
+    "full_name": "Lachlan Olbrich",
+    "team": "Chicago Bulls",
+    "position": "Center",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nick_richards",
+    "full_name": "Nick Richards",
+    "team": "Chicago Bulls",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "collin_sexton",
+    "full_name": "Collin Sexton",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "anfernee_simons",
+    "full_name": "Anfernee Simons",
+    "team": "Chicago Bulls",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_smith",
+    "full_name": "Jalen Smith",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "patrick_williams",
+    "full_name": "Patrick Williams",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "guerschon_yabusele",
+    "full_name": "Guerschon Yabusele",
+    "team": "Chicago Bulls",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jarrett_allen",
+    "full_name": "Jarrett Allen",
+    "team": "Cleveland Cavaliers",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "thomas_bryant",
+    "full_name": "Thomas Bryant",
+    "team": "Cleveland Cavaliers",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keon_ellis",
+    "full_name": "Keon Ellis",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tristan_enaruna",
+    "full_name": "Tristan Enaruna",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "james_harden",
+    "full_name": "James Harden",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sam_merrill",
+    "full_name": "Sam Merrill",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "riley_minix",
+    "full_name": "Riley Minix",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "donovan_mitchell",
+    "full_name": "Donovan Mitchell",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "evan_mobley",
+    "full_name": "Evan Mobley",
+    "team": "Cleveland Cavaliers",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "larry_nance_jr.",
+    "full_name": "Larry Nance Jr.",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "craig_porter_jr.",
+    "full_name": "Craig Porter Jr.",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyrese_proctor",
+    "full_name": "Tyrese Proctor",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "olivier_sarr",
+    "full_name": "Olivier Sarr",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dennis_schroder",
+    "full_name": "Dennis Schroder",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "max_strus",
+    "full_name": "Max Strus",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nae'qwan_tomlin",
+    "full_name": "Nae'Qwan Tomlin",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaylon_tyson",
+    "full_name": "Jaylon Tyson",
+    "team": "Cleveland Cavaliers",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dean_wade",
+    "full_name": "Dean Wade",
+    "team": "Cleveland Cavaliers",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "marvin_bagley_iii",
+    "full_name": "Marvin Bagley III",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "max_christie",
+    "full_name": "Max Christie",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "moussa_cisse",
+    "full_name": "Moussa Cisse",
+    "team": "Dallas Mavericks",
+    "position": "Center",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cooper_flagg",
+    "full_name": "Cooper Flagg",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "daniel_gafford",
+    "full_name": "Daniel Gafford",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyrie_irving",
+    "full_name": "Kyrie Irving",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aj_johnson",
+    "full_name": "AJ Johnson",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dereck_lively_ii",
+    "full_name": "Dereck Lively II",
+    "team": "Dallas Mavericks",
+    "position": "Center",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "naji_marshall",
+    "full_name": "Naji Marshall",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "caleb_martin",
+    "full_name": "Caleb Martin",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "khris_middleton",
+    "full_name": "Khris Middleton",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ryan_nembhard",
+    "full_name": "Ryan Nembhard",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "john_poulakidas",
+    "full_name": "John Poulakidas",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dwight_powell",
+    "full_name": "Dwight Powell",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyler_smith",
+    "full_name": "Tyler Smith",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "klay_thompson",
+    "full_name": "Klay Thompson",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "p.j._washington",
+    "full_name": "P.J. Washington",
+    "team": "Dallas Mavericks",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brandon_williams",
+    "full_name": "Brandon Williams",
+    "team": "Dallas Mavericks",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "christian_braun",
+    "full_name": "Christian Braun",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bruce_brown",
+    "full_name": "Bruce Brown",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aaron_gordon",
+    "full_name": "Aaron Gordon",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tim_hardaway_jr.",
+    "full_name": "Tim Hardaway Jr.",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "daron_holmes_ii",
+    "full_name": "DaRon Holmes II",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cameron_johnson",
+    "full_name": "Cameron Johnson",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nikola_jokic",
+    "full_name": "Nikola Jokic",
+    "team": "Denver Nuggets",
+    "position": "Center",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "curtis_jones",
+    "full_name": "Curtis Jones",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "spencer_jones",
+    "full_name": "Spencer Jones",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyus_jones",
+    "full_name": "Tyus Jones",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamal_murray",
+    "full_name": "Jamal Murray",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zeke_nnaji",
+    "full_name": "Zeke Nnaji",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_pickett",
+    "full_name": "Jalen Pickett",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "david_roddy",
+    "full_name": "David Roddy",
+    "team": "Denver Nuggets",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kj_simpson",
+    "full_name": "KJ Simpson",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "julian_strawther",
+    "full_name": "Julian Strawther",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jonas_valanciunas",
+    "full_name": "Jonas Valanciunas",
+    "team": "Denver Nuggets",
+    "position": "Center",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "peyton_watson",
+    "full_name": "Peyton Watson",
+    "team": "Denver Nuggets",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cade_cunningham",
+    "full_name": "Cade Cunningham",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_duren",
+    "full_name": "Jalen Duren",
+    "team": "Detroit Pistons",
+    "position": "Center",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "javonte_green",
+    "full_name": "Javonte Green",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tobias_harris",
+    "full_name": "Tobias Harris",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ronald_holland_ii",
+    "full_name": "Ronald Holland II",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevin_huerter",
+    "full_name": "Kevin Huerter",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "daniss_jenkins",
+    "full_name": "Daniss Jenkins",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaac_jones",
+    "full_name": "Isaac Jones",
+    "team": "Detroit Pistons",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chaz_lanier",
+    "full_name": "Chaz Lanier",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "caris_levert",
+    "full_name": "Caris LeVert",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "wendell_moore_jr.",
+    "full_name": "Wendell Moore Jr.",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "paul_reed",
+    "full_name": "Paul Reed",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "duncan_robinson",
+    "full_name": "Duncan Robinson",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "marcus_sasser",
+    "full_name": "Marcus Sasser",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tolu_smith",
+    "full_name": "Tolu Smith",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_stewart",
+    "full_name": "Isaiah Stewart",
+    "team": "Detroit Pistons",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ausar_thompson",
+    "full_name": "Ausar Thompson",
+    "team": "Detroit Pistons",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "charles_bassey",
+    "full_name": "Charles Bassey",
+    "team": "Golden State Warriors",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jimmy_butler_iii",
+    "full_name": "Jimmy Butler III",
+    "team": "Golden State Warriors",
+    "position": "Small Forward",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lj_cryer",
+    "full_name": "LJ Cryer",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "seth_curry",
+    "full_name": "Seth Curry",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 35,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "stephen_curry",
+    "full_name": "Stephen Curry",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 38,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "draymond_green",
+    "full_name": "Draymond Green",
+    "team": "Golden State Warriors",
+    "position": "Small Forward",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "al_horford",
+    "full_name": "Al Horford",
+    "team": "Golden State Warriors",
+    "position": "Center",
+    "age": 39,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "malevy_leons",
+    "full_name": "Malevy Leons",
+    "team": "Golden State Warriors",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "de'anthony_melton",
+    "full_name": "De'Anthony Melton",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "moses_moody",
+    "full_name": "Moses Moody",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gary_payton_ii",
+    "full_name": "Gary Payton II",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brandin_podziemski",
+    "full_name": "Brandin Podziemski",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kristaps_porzingis",
+    "full_name": "Kristaps Porzingis",
+    "team": "Golden State Warriors",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "quinten_post",
+    "full_name": "Quinten Post",
+    "team": "Golden State Warriors",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "will_richard",
+    "full_name": "Will Richard",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gui_santos",
+    "full_name": "Gui Santos",
+    "team": "Golden State Warriors",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pat_spencer",
+    "full_name": "Pat Spencer",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nate_williams",
+    "full_name": "Nate Williams",
+    "team": "Golden State Warriors",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "omer_yurtseven",
+    "full_name": "Omer Yurtseven",
+    "team": "Golden State Warriors",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "steven_adams",
+    "full_name": "Steven Adams",
+    "team": "Houston Rockets",
+    "position": "Center",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "clint_capela",
+    "full_name": "Clint Capela",
+    "team": "Houston Rockets",
+    "position": "Center",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_crawford",
+    "full_name": "Isaiah Crawford",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jd_davison",
+    "full_name": "JD Davison",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevin_durant",
+    "full_name": "Kevin Durant",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 37,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tari_eason",
+    "full_name": "Tari Eason",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dorian_finney_smith",
+    "full_name": "Dorian Finney-Smith",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jeff_green",
+    "full_name": "Jeff Green",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 39,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aaron_holiday",
+    "full_name": "Aaron Holiday",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tristen_newton",
+    "full_name": "Tristen Newton",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_okogie",
+    "full_name": "Josh Okogie",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alperen_sengun",
+    "full_name": "Alperen Sengun",
+    "team": "Houston Rockets",
+    "position": "Center",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "reed_sheppard",
+    "full_name": "Reed Sheppard",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jabari_smith_jr.",
+    "full_name": "Jabari Smith Jr.",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jae'sean_tate",
+    "full_name": "Jae'Sean Tate",
+    "team": "Houston Rockets",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "amen_thompson",
+    "full_name": "Amen Thompson",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "fred_vanvleet",
+    "full_name": "Fred VanVleet",
+    "team": "Houston Rockets",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kobe_brown",
+    "full_name": "Kobe Brown",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "johnny_furphy",
+    "full_name": "Johnny Furphy",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyrese_haliburton",
+    "full_name": "Tyrese Haliburton",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jay_huff",
+    "full_name": "Jay Huff",
+    "team": "Indiana Pacers",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "quenton_jackson",
+    "full_name": "Quenton Jackson",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kam_jones",
+    "full_name": "Kam Jones",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "t.j._mcconnell",
+    "full_name": "T.J. McConnell",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "andrew_nembhard",
+    "full_name": "Andrew Nembhard",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aaron_nesmith",
+    "full_name": "Aaron Nesmith",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "taelon_peter",
+    "full_name": "Taelon Peter",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "micah_potter",
+    "full_name": "Micah Potter",
+    "team": "Indiana Pacers",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ben_sheppard",
+    "full_name": "Ben Sheppard",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pascal_siakam",
+    "full_name": "Pascal Siakam",
+    "team": "Indiana Pacers",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_slawson",
+    "full_name": "Jalen Slawson",
+    "team": "Indiana Pacers",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ethan_thompson",
+    "full_name": "Ethan Thompson",
+    "team": "Indiana Pacers",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "obi_toppin",
+    "full_name": "Obi Toppin",
+    "team": "Indiana Pacers",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jarace_walker",
+    "full_name": "Jarace Walker",
+    "team": "Indiana Pacers",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ivica_zubac",
+    "full_name": "Ivica Zubac",
+    "team": "Indiana Pacers",
+    "position": "Center",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nicolas_batum",
+    "full_name": "Nicolas Batum",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 37,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bradley_beal",
+    "full_name": "Bradley Beal",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bogdan_bogdanovic",
+    "full_name": "Bogdan Bogdanovic",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cam_christie",
+    "full_name": "Cam Christie",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "john_collins",
+    "full_name": "John Collins",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kris_dunn",
+    "full_name": "Kris Dunn",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "darius_garland",
+    "full_name": "Darius Garland",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_jackson",
+    "full_name": "Isaiah Jackson",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "derrick_jones_jr.",
+    "full_name": "Derrick Jones Jr.",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kawhi_leonard",
+    "full_name": "Kawhi Leonard",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brook_lopez",
+    "full_name": "Brook Lopez",
+    "team": "LA Clippers",
+    "position": "Center",
+    "age": 38,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bennedict_mathurin",
+    "full_name": "Bennedict Mathurin",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_miller",
+    "full_name": "Jordan Miller",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "yanic_konan_niederhauser",
+    "full_name": "Yanic Konan Niederhauser",
+    "team": "LA Clippers",
+    "position": "Center",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "norchad_omier",
+    "full_name": "Norchad Omier",
+    "team": "LA Clippers",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sean_pedulla",
+    "full_name": "Sean Pedulla",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kobe_sanders",
+    "full_name": "Kobe Sanders",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyty_washington_jr.",
+    "full_name": "TyTy Washington Jr.",
+    "team": "LA Clippers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "deandre_ayton",
+    "full_name": "Deandre Ayton",
+    "team": "Los Angeles Lakers",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "luka_doncic",
+    "full_name": "Luka Doncic",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rui_hachimura",
+    "full_name": "Rui Hachimura",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaxson_hayes",
+    "full_name": "Jaxson Hayes",
+    "team": "Los Angeles Lakers",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bronny_james",
+    "full_name": "Bronny James",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lebron_james",
+    "full_name": "LeBron James",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 41,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "luke_kennard",
+    "full_name": "Luke Kennard",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "maxi_kleber",
+    "full_name": "Maxi Kleber",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dalton_knecht",
+    "full_name": "Dalton Knecht",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jake_laravia",
+    "full_name": "Jake LaRavia",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chris_manon",
+    "full_name": "Chris Manon",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "austin_reaves",
+    "full_name": "Austin Reaves",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "marcus_smart",
+    "full_name": "Marcus Smart",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nick_smith_jr.",
+    "full_name": "Nick Smith Jr.",
+    "team": "Los Angeles Lakers",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "adou_thiero",
+    "full_name": "Adou Thiero",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "drew_timme",
+    "full_name": "Drew Timme",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jarred_vanderbilt",
+    "full_name": "Jarred Vanderbilt",
+    "team": "Los Angeles Lakers",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "santi_aldama",
+    "full_name": "Santi Aldama",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "adama_bal",
+    "full_name": "Adama Bal",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kentavious_caldwell_pope",
+    "full_name": "Kentavious Caldwell-Pope",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brandon_clarke",
+    "full_name": "Brandon Clarke",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "walter_clayton_jr.",
+    "full_name": "Walter Clayton Jr.",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cedric_coward",
+    "full_name": "Cedric Coward",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zach_edey",
+    "full_name": "Zach Edey",
+    "team": "Memphis Grizzlies",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "taj_gibson",
+    "full_name": "Taj Gibson",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 40,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "taylor_hendricks",
+    "full_name": "Taylor Hendricks",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gg_jackson",
+    "full_name": "GG Jackson",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ty_jerome",
+    "full_name": "Ty Jerome",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jahmai_mashack",
+    "full_name": "Jahmai Mashack",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ja_morant",
+    "full_name": "Ja Morant",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "toby_okani",
+    "full_name": "Toby Okani",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "scotty_pippen_jr.",
+    "full_name": "Scotty Pippen Jr.",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "olivier_maxence_prosper",
+    "full_name": "Olivier-Maxence Prosper",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rayan_rupert",
+    "full_name": "Rayan Rupert",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "javon_small",
+    "full_name": "Javon Small",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cam_spencer",
+    "full_name": "Cam Spencer",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaylen_wells",
+    "full_name": "Jaylen Wells",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dariq_whitehead",
+    "full_name": "Dariq Whitehead",
+    "team": "Memphis Grizzlies",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lucas_williamson",
+    "full_name": "Lucas Williamson",
+    "team": "Memphis Grizzlies",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bam_adebayo",
+    "full_name": "Bam Adebayo",
+    "team": "Miami Heat",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "simone_fontecchio",
+    "full_name": "Simone Fontecchio",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "myron_gardner",
+    "full_name": "Myron Gardner",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "vladislav_goldin",
+    "full_name": "Vladislav Goldin",
+    "team": "Miami Heat",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyler_herro",
+    "full_name": "Tyler Herro",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kasparas_jakucionis",
+    "full_name": "Kasparas Jakucionis",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaime_jaquez_jr.",
+    "full_name": "Jaime Jaquez Jr.",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keshad_johnson",
+    "full_name": "Keshad Johnson",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nikola_jovic",
+    "full_name": "Nikola Jovic",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trevor_keels",
+    "full_name": "Trevor Keels",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pelle_larsson",
+    "full_name": "Pelle Larsson",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "davion_mitchell",
+    "full_name": "Davion Mitchell",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "norman_powell",
+    "full_name": "Norman Powell",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dru_smith",
+    "full_name": "Dru Smith",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kel'el_ware",
+    "full_name": "Kel'el Ware",
+    "team": "Miami Heat",
+    "position": "Center",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "andrew_wiggins",
+    "full_name": "Andrew Wiggins",
+    "team": "Miami Heat",
+    "position": "Small Forward",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jahmir_young",
+    "full_name": "Jahmir Young",
+    "team": "Miami Heat",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alex_antetokounmpo",
+    "full_name": "Alex Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "giannis_antetokounmpo",
+    "full_name": "Giannis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "thanasis_antetokounmpo",
+    "full_name": "Thanasis Antetokounmpo",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ousmane_dieng",
+    "full_name": "Ousmane Dieng",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aj_green",
+    "full_name": "AJ Green",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gary_harris",
+    "full_name": "Gary Harris",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "andre_jackson_jr.",
+    "full_name": "Andre Jackson Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyle_kuzma",
+    "full_name": "Kyle Kuzma",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pete_nance",
+    "full_name": "Pete Nance",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevin_porter_jr.",
+    "full_name": "Kevin Porter Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bobby_portis",
+    "full_name": "Bobby Portis",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "taurean_prince",
+    "full_name": "Taurean Prince",
+    "team": "Milwaukee Bucks",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ryan_rollins",
+    "full_name": "Ryan Rollins",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cormac_ryan",
+    "full_name": "Cormac Ryan",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jericho_sims",
+    "full_name": "Jericho Sims",
+    "team": "Milwaukee Bucks",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gary_trent_jr.",
+    "full_name": "Gary Trent Jr.",
+    "team": "Milwaukee Bucks",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "myles_turner",
+    "full_name": "Myles Turner",
+    "team": "Milwaukee Bucks",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyle_anderson",
+    "full_name": "Kyle Anderson",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "joan_beringer",
+    "full_name": "Joan Beringer",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaylen_clark",
+    "full_name": "Jaylen Clark",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mike_conley",
+    "full_name": "Mike Conley",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 38,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "donte_divincenzo",
+    "full_name": "Donte DiVincenzo",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ayo_dosunmu",
+    "full_name": "Ayo Dosunmu",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "anthony_edwards",
+    "full_name": "Anthony Edwards",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "enrique_freeman",
+    "full_name": "Enrique Freeman",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rudy_gobert",
+    "full_name": "Rudy Gobert",
+    "team": "Minnesota Timberwolves",
+    "position": "Center",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bones_hyland",
+    "full_name": "Bones Hyland",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "joe_ingles",
+    "full_name": "Joe Ingles",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 38,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaden_mcdaniels",
+    "full_name": "Jaden McDaniels",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "julian_phillips",
+    "full_name": "Julian Phillips",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zyon_pullin",
+    "full_name": "Zyon Pullin",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "julius_randle",
+    "full_name": "Julius Randle",
+    "team": "Minnesota Timberwolves",
+    "position": "Small Forward",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "naz_reid",
+    "full_name": "Naz Reid",
+    "team": "Minnesota Timberwolves",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "terrence_shannon_jr.",
+    "full_name": "Terrence Shannon Jr.",
+    "team": "Minnesota Timberwolves",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rocco_zikarsky",
+    "full_name": "Rocco Zikarsky",
+    "team": "Minnesota Timberwolves",
+    "position": "Center",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trey_alexander",
+    "full_name": "Trey Alexander",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "saddiq_bey",
+    "full_name": "Saddiq Bey",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "hunter_dickinson",
+    "full_name": "Hunter Dickinson",
+    "team": "New Orleans Pelicans",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jeremiah_fears",
+    "full_name": "Jeremiah Fears",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_hawkins",
+    "full_name": "Jordan Hawkins",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "herbert_jones",
+    "full_name": "Herbert Jones",
+    "team": "New Orleans Pelicans",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "deandre_jordan",
+    "full_name": "DeAndre Jordan",
+    "team": "New Orleans Pelicans",
+    "position": "Center",
+    "age": 37,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevon_looney",
+    "full_name": "Kevon Looney",
+    "team": "New Orleans Pelicans",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "karlo_matkovic",
+    "full_name": "Karlo Matkovic",
+    "team": "New Orleans Pelicans",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bryce_mcgowens",
+    "full_name": "Bryce McGowens",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "yves_missi",
+    "full_name": "Yves Missi",
+    "team": "New Orleans Pelicans",
+    "position": "Center",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trey_murphy_iii",
+    "full_name": "Trey Murphy III",
+    "team": "New Orleans Pelicans",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dejounte_murray",
+    "full_name": "Dejounte Murray",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_oduro",
+    "full_name": "Josh Oduro",
+    "team": "New Orleans Pelicans",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "micah_peavy",
+    "full_name": "Micah Peavy",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_poole",
+    "full_name": "Jordan Poole",
+    "team": "New Orleans Pelicans",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "derik_queen",
+    "full_name": "Derik Queen",
+    "team": "New Orleans Pelicans",
+    "position": "Center",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zion_williamson",
+    "full_name": "Zion Williamson",
+    "team": "New Orleans Pelicans",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jose_alvarado",
+    "full_name": "Jose Alvarado",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "og_anunoby",
+    "full_name": "OG Anunoby",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mikal_bridges",
+    "full_name": "Mikal Bridges",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_brunson",
+    "full_name": "Jalen Brunson",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_clarkson",
+    "full_name": "Jordan Clarkson",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "pacome_dadiet",
+    "full_name": "Pacome Dadiet",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mohamed_diawara",
+    "full_name": "Mohamed Diawara",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "josh_hart",
+    "full_name": "Josh Hart",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ariel_hukporti",
+    "full_name": "Ariel Hukporti",
+    "team": "New York Knicks",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trey_jemison_iii",
+    "full_name": "Trey Jemison III",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dillon_jones",
+    "full_name": "Dillon Jones",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyler_kolek",
+    "full_name": "Tyler Kolek",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "miles_mcbride",
+    "full_name": "Miles McBride",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevin_mccullar_jr.",
+    "full_name": "Kevin McCullar Jr.",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mitchell_robinson",
+    "full_name": "Mitchell Robinson",
+    "team": "New York Knicks",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "landry_shamet",
+    "full_name": "Landry Shamet",
+    "team": "New York Knicks",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jeremy_sochan",
+    "full_name": "Jeremy Sochan",
+    "team": "New York Knicks",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "karl_anthony_towns",
+    "full_name": "Karl-Anthony Towns",
+    "team": "New York Knicks",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brooks_barnhizer",
+    "full_name": "Brooks Barnhizer",
+    "team": "Oklahoma City Thunder",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "branden_carlson",
+    "full_name": "Branden Carlson",
+    "team": "Oklahoma City Thunder",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alex_caruso",
+    "full_name": "Alex Caruso",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "luguentz_dort",
+    "full_name": "Luguentz Dort",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "shai_gilgeous_alexander",
+    "full_name": "Shai Gilgeous-Alexander",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_hartenstein",
+    "full_name": "Isaiah Hartenstein",
+    "team": "Oklahoma City Thunder",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chet_holmgren",
+    "full_name": "Chet Holmgren",
+    "team": "Oklahoma City Thunder",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_joe",
+    "full_name": "Isaiah Joe",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jared_mccain",
+    "full_name": "Jared McCain",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ajay_mitchell",
+    "full_name": "Ajay Mitchell",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "payton_sandfort",
+    "full_name": "Payton Sandfort",
+    "team": "Oklahoma City Thunder",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "thomas_sorber",
+    "full_name": "Thomas Sorber",
+    "team": "Oklahoma City Thunder",
+    "position": "Center",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nikola_topic",
+    "full_name": "Nikola Topic",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cason_wallace",
+    "full_name": "Cason Wallace",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "aaron_wiggins",
+    "full_name": "Aaron Wiggins",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_williams",
+    "full_name": "Jalen Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaylin_williams",
+    "full_name": "Jaylin Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kenrich_williams",
+    "full_name": "Kenrich Williams",
+    "team": "Oklahoma City Thunder",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "paolo_banchero",
+    "full_name": "Paolo Banchero",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "desmond_bane",
+    "full_name": "Desmond Bane",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "goga_bitadze",
+    "full_name": "Goga Bitadze",
+    "team": "Orlando Magic",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "anthony_black",
+    "full_name": "Anthony Black",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamal_cain",
+    "full_name": "Jamal Cain",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jevon_carter",
+    "full_name": "Jevon Carter",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "wendell_carter_jr.",
+    "full_name": "Wendell Carter Jr.",
+    "team": "Orlando Magic",
+    "position": "Center",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "colin_castleton",
+    "full_name": "Colin Castleton",
+    "team": "Orlando Magic",
+    "position": "Center",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tristan_da_silva",
+    "full_name": "Tristan da Silva",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jett_howard",
+    "full_name": "Jett Howard",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jonathan_isaac",
+    "full_name": "Jonathan Isaac",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alex_morales",
+    "full_name": "Alex Morales",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "noah_penda",
+    "full_name": "Noah Penda",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jase_richardson",
+    "full_name": "Jase Richardson",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_suggs",
+    "full_name": "Jalen Suggs",
+    "team": "Orlando Magic",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "franz_wagner",
+    "full_name": "Franz Wagner",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "moritz_wagner",
+    "full_name": "Moritz Wagner",
+    "team": "Orlando Magic",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dominick_barlow",
+    "full_name": "Dominick Barlow",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "marjon_beauchamp",
+    "full_name": "MarJon Beauchamp",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "adem_bona",
+    "full_name": "Adem Bona",
+    "team": "Philadelphia 76ers",
+    "position": "Center",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "johni_broome",
+    "full_name": "Johni Broome",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "andre_drummond",
+    "full_name": "Andre Drummond",
+    "team": "Philadelphia 76ers",
+    "position": "Center",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "vj_edgecombe",
+    "full_name": "VJ Edgecombe",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "justin_edwards",
+    "full_name": "Justin Edwards",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "joel_embiid",
+    "full_name": "Joel Embiid",
+    "team": "Philadelphia 76ers",
+    "position": "Center",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "paul_george",
+    "full_name": "Paul George",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "quentin_grimes",
+    "full_name": "Quentin Grimes",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyle_lowry",
+    "full_name": "Kyle Lowry",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 40,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyrese_martin",
+    "full_name": "Tyrese Martin",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tyrese_maxey",
+    "full_name": "Tyrese Maxey",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kelly_oubre_jr.",
+    "full_name": "Kelly Oubre Jr.",
+    "team": "Philadelphia 76ers",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dalen_terry",
+    "full_name": "Dalen Terry",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jabari_walker",
+    "full_name": "Jabari Walker",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trendon_watford",
+    "full_name": "Trendon Watford",
+    "team": "Philadelphia 76ers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "grayson_allen",
+    "full_name": "Grayson Allen",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "devin_booker",
+    "full_name": "Devin Booker",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamaree_bouyea",
+    "full_name": "Jamaree Bouyea",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "koby_brea",
+    "full_name": "Koby Brea",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dillon_brooks",
+    "full_name": "Dillon Brooks",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "amir_coffey",
+    "full_name": "Amir Coffey",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ryan_dunn",
+    "full_name": "Ryan Dunn",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rasheer_fleming",
+    "full_name": "Rasheer Fleming",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "collin_gillespie",
+    "full_name": "Collin Gillespie",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_goodwin",
+    "full_name": "Jordan Goodwin",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jalen_green",
+    "full_name": "Jalen Green",
+    "team": "Phoenix Suns",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "haywood_highsmith",
+    "full_name": "Haywood Highsmith",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cj_huntley",
+    "full_name": "CJ Huntley",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "oso_ighodaro",
+    "full_name": "Oso Ighodaro",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_livers",
+    "full_name": "Isaiah Livers",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "khaman_maluach",
+    "full_name": "Khaman Maluach",
+    "team": "Phoenix Suns",
+    "position": "Center",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "royce_o'neale",
+    "full_name": "Royce O'Neale",
+    "team": "Phoenix Suns",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mark_williams",
+    "full_name": "Mark Williams",
+    "team": "Phoenix Suns",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "deni_avdija",
+    "full_name": "Deni Avdija",
+    "team": "Portland Trail Blazers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "toumani_camara",
+    "full_name": "Toumani Camara",
+    "team": "Portland Trail Blazers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sidy_cissoko",
+    "full_name": "Sidy Cissoko",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "donovan_clingan",
+    "full_name": "Donovan Clingan",
+    "team": "Portland Trail Blazers",
+    "position": "Center",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jerami_grant",
+    "full_name": "Jerami Grant",
+    "team": "Portland Trail Blazers",
+    "position": "Small Forward",
+    "age": 32,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "yang_hansen",
+    "full_name": "Yang Hansen",
+    "team": "Portland Trail Blazers",
+    "position": "Center",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "scoot_henderson",
+    "full_name": "Scoot Henderson",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jrue_holiday",
+    "full_name": "Jrue Holiday",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 35,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jayson_kent",
+    "full_name": "Jayson Kent",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "vit_krejci",
+    "full_name": "Vit Krejci",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "damian_lillard",
+    "full_name": "Damian Lillard",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 35,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "caleb_love",
+    "full_name": "Caleb Love",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kris_murray",
+    "full_name": "Kris Murray",
+    "team": "Portland Trail Blazers",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "shaedon_sharpe",
+    "full_name": "Shaedon Sharpe",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "matisse_thybulle",
+    "full_name": "Matisse Thybulle",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "blake_wesley",
+    "full_name": "Blake Wesley",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "robert_williams_iii",
+    "full_name": "Robert Williams III",
+    "team": "Portland Trail Blazers",
+    "position": "Center",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chris_youngblood",
+    "full_name": "Chris Youngblood",
+    "team": "Portland Trail Blazers",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "precious_achiuwa",
+    "full_name": "Precious Achiuwa",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "patrick_baldwin_jr.",
+    "full_name": "Patrick Baldwin Jr.",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dylan_cardwell",
+    "full_name": "Dylan Cardwell",
+    "team": "Sacramento Kings",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "devin_carter",
+    "full_name": "Devin Carter",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "nique_clifford",
+    "full_name": "Nique Clifford",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "demar_derozan",
+    "full_name": "DeMar DeRozan",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "drew_eubanks",
+    "full_name": "Drew Eubanks",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 29,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "killian_hayes",
+    "full_name": "Killian Hayes",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "de'andre_hunter",
+    "full_name": "De'Andre Hunter",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "zach_lavine",
+    "full_name": "Zach LaVine",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "doug_mcdermott",
+    "full_name": "Doug McDermott",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 34,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "malik_monk",
+    "full_name": "Malik Monk",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keegan_murray",
+    "full_name": "Keegan Murray",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "daeqwon_plowden",
+    "full_name": "Daeqwon Plowden",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "maxime_raynaud",
+    "full_name": "Maxime Raynaud",
+    "team": "Sacramento Kings",
+    "position": "Center",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "domantas_sabonis",
+    "full_name": "Domantas Sabonis",
+    "team": "Sacramento Kings",
+    "position": "Small Forward",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_stevens",
+    "full_name": "Isaiah Stevens",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "russell_westbrook",
+    "full_name": "Russell Westbrook",
+    "team": "Sacramento Kings",
+    "position": "Point Guard",
+    "age": 37,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "harrison_barnes",
+    "full_name": "Harrison Barnes",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bismack_biyombo",
+    "full_name": "Bismack Biyombo",
+    "team": "San Antonio Spurs",
+    "position": "Center",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "carter_bryant",
+    "full_name": "Carter Bryant",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "stephon_castle",
+    "full_name": "Stephon Castle",
+    "team": "San Antonio Spurs",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "julian_champagnie",
+    "full_name": "Julian Champagnie",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "de'aaron_fox",
+    "full_name": "De'Aaron Fox",
+    "team": "San Antonio Spurs",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "dylan_harper",
+    "full_name": "Dylan Harper",
+    "team": "San Antonio Spurs",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "harrison_ingram",
+    "full_name": "Harrison Ingram",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keldon_johnson",
+    "full_name": "Keldon Johnson",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "david_jones_garcia",
+    "full_name": "David Jones Garcia",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "luke_kornet",
+    "full_name": "Luke Kornet",
+    "team": "San Antonio Spurs",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jordan_mclaughlin",
+    "full_name": "Jordan McLaughlin",
+    "team": "San Antonio Spurs",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "emanuel_miller",
+    "full_name": "Emanuel Miller",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kelly_olynyk",
+    "full_name": "Kelly Olynyk",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 35,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "mason_plumlee",
+    "full_name": "Mason Plumlee",
+    "team": "San Antonio Spurs",
+    "position": "Center",
+    "age": 36,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "devin_vassell",
+    "full_name": "Devin Vassell",
+    "team": "San Antonio Spurs",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lindy_waters_iii",
+    "full_name": "Lindy Waters III",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "victor_wembanyama",
+    "full_name": "Victor Wembanyama",
+    "team": "San Antonio Spurs",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "scottie_barnes",
+    "full_name": "Scottie Barnes",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "rj_barrett",
+    "full_name": "RJ Barrett",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamison_battle",
+    "full_name": "Jamison Battle",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "gradey_dick",
+    "full_name": "Gradey Dick",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "chucky_hepburn",
+    "full_name": "Chucky Hepburn",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brandon_ingram",
+    "full_name": "Brandon Ingram",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trayce_jackson_davis",
+    "full_name": "Trayce Jackson-Davis",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "a.j._lawson",
+    "full_name": "A.J. Lawson",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 25,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sandro_mamukelashvili",
+    "full_name": "Sandro Mamukelashvili",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alijah_martin",
+    "full_name": "Alijah Martin",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jonathan_mogbo",
+    "full_name": "Jonathan Mogbo",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "collin_murray_boyles",
+    "full_name": "Collin Murray-Boyles",
+    "team": "Toronto Raptors",
+    "position": "Small Forward",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jakob_poeltl",
+    "full_name": "Jakob Poeltl",
+    "team": "Toronto Raptors",
+    "position": "Center",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "immanuel_quickley",
+    "full_name": "Immanuel Quickley",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamal_shead",
+    "full_name": "Jamal Shead",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "garrett_temple",
+    "full_name": "Garrett Temple",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 40,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ja'kobe_walter",
+    "full_name": "Ja'Kobe Walter",
+    "team": "Toronto Raptors",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "ace_bailey",
+    "full_name": "Ace Bailey",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kennedy_chandler",
+    "full_name": "Kennedy Chandler",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "isaiah_collier",
+    "full_name": "Isaiah Collier",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyle_filipowski",
+    "full_name": "Kyle Filipowski",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "keyonte_george",
+    "full_name": "Keyonte George",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "hayden_gray",
+    "full_name": "Hayden Gray",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "elijah_harkless",
+    "full_name": "Elijah Harkless",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "blake_hinson",
+    "full_name": "Blake Hinson",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaren_jackson_jr.",
+    "full_name": "Jaren Jackson Jr.",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "walker_kessler",
+    "full_name": "Walker Kessler",
+    "team": "Utah Jazz",
+    "position": "Center",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "john_konchar",
+    "full_name": "John Konchar",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kevin_love",
+    "full_name": "Kevin Love",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 37,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "lauri_markkanen",
+    "full_name": "Lauri Markkanen",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bez_mbeng",
+    "full_name": "Bez Mbeng",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "svi_mykhailiuk",
+    "full_name": "Svi Mykhailiuk",
+    "team": "Utah Jazz",
+    "position": "Point Guard",
+    "age": 28,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jusuf_nurkic",
+    "full_name": "Jusuf Nurkic",
+    "team": "Utah Jazz",
+    "position": "Center",
+    "age": 31,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "brice_sensabaugh",
+    "full_name": "Brice Sensabaugh",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "oscar_tshiebwe",
+    "full_name": "Oscar Tshiebwe",
+    "team": "Utah Jazz",
+    "position": "Center",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cody_williams",
+    "full_name": "Cody Williams",
+    "team": "Utah Jazz",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "leaky_black",
+    "full_name": "Leaky Black",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 26,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bub_carrington",
+    "full_name": "Bub Carrington",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "justin_champagnie",
+    "full_name": "Justin Champagnie",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "sharife_cooper",
+    "full_name": "Sharife Cooper",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "bilal_coulibaly",
+    "full_name": "Bilal Coulibaly",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "anthony_davis",
+    "full_name": "Anthony Davis",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "kyshawn_george",
+    "full_name": "Kyshawn George",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "anthony_gill",
+    "full_name": "Anthony Gill",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 33,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jaden_hardy",
+    "full_name": "Jaden Hardy",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tre_johnson",
+    "full_name": "Tre Johnson",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 19,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "julian_reese",
+    "full_name": "Julian Reese",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 22,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "will_riley",
+    "full_name": "Will Riley",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 20,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "d'angelo_russell",
+    "full_name": "D'Angelo Russell",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 30,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "alex_sarr",
+    "full_name": "Alex Sarr",
+    "team": "Washington Wizards",
+    "position": "Center",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "tristan_vukcevic",
+    "full_name": "Tristan Vukcevic",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 23,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "jamir_watkins",
+    "full_name": "Jamir Watkins",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 24,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "cam_whitmore",
+    "full_name": "Cam Whitmore",
+    "team": "Washington Wizards",
+    "position": "Small Forward",
+    "age": 21,
+    "height": "",
+    "salary": "Unknown"
+  },
+  {
+    "player_id": "trae_young",
+    "full_name": "Trae Young",
+    "team": "Washington Wizards",
+    "position": "Point Guard",
+    "age": 27,
+    "height": "",
+    "salary": "Unknown"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "games",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "status", "order": "ASCENDING" },
+        { "fieldPath": "start_time", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "games",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "date", "order": "ASCENDING" },
+        { "fieldPath": "start_time", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "picks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "date", "order": "DESCENDING" },
+        { "fieldPath": "ai_confidence", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "picks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "quality", "order": "ASCENDING" },
+        { "fieldPath": "ai_confidence", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "player_stats",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "player_id", "order": "ASCENDING" },
+        { "fieldPath": "date", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "odds",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "game_id", "order": "ASCENDING" },
+        { "fieldPath": "timestamp", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "news_events",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "player_name", "order": "ASCENDING" },
+        { "fieldPath": "date", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "daily_reports",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "date", "order": "DESCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

@@ -1,0 +1,51 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && request.auth.token.admin == true;
+    }
+    
+    function isImage() {
+      return request.resource.contentType.matches('image/.*');
+    }
+
+    // User profile images
+    match /users/{userId}/profile/{file} {
+      allow read: if true;
+      allow write: if isOwner(userId) && isImage();
+    }
+    
+    // Team/player logos - public read, admin write
+    match /logos/{file} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Daily report exports - authenticated read, admin write
+    match /reports/{file} {
+      allow read: if isAuthenticated();
+      allow write: if isAdmin();
+    }
+    
+    // System assets - public read, admin write
+    match /assets/{file} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    
+    // Temporary uploads - authenticated users
+    match /temp/{userId}/{file} {
+      allow read, write: if isOwner(userId);
+    }
+  }
+}

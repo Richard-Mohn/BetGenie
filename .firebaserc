@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "betgenie-ai",
+    "production": "betgenie-ai",
+    "staging": "betgenie-ai-staging"
+  }
+}
