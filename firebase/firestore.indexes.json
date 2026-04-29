@@ -55,13 +55,6 @@
         { "fieldPath": "player_name", "order": "ASCENDING" },
         { "fieldPath": "date", "order": "DESCENDING" }
       ]
-    },
-    {
-      "collectionGroup": "daily_reports",
-      "queryScope": "COLLECTION",
-      "fields": [
-        { "fieldPath": "date", "order": "DESCENDING" }
-      ]
     }
   ],
   "fieldOverrides": []
