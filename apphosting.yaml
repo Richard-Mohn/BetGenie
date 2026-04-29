@@ -11,9 +11,8 @@ runConfig:
 # Root directory within the monorepo — Next.js app lives here
 rootDir: apps/web
 
-# Bypass turbo at runtime — turbo strips the PORT env var, next start defaults to 3000.
-# This runs the web app start script directly so next start receives PORT=8080 from Cloud Run.
-runCommand: npm run start
+# Run the website with pnpm
+runCommand: pnpm --filter website run start
 
 # Environment variables (non-secret)
 env:
