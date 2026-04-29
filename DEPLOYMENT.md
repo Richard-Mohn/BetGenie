@@ -119,21 +119,39 @@ gcloud run deploy nba_data_ingestion \
 # - ai_analysis
 ```
 
-### Option 2: GitHub Actions (Automated)
+### Option 2: Firebase App Hosting (Native GitHub Integration)
 
-#### Setup GitHub Secrets
-1. Go to repository Settings → Secrets and variables → Actions
-2. Add secret: `GCP_SA_KEY` (service account JSON key)
+Firebase App Hosting has built-in GitHub integration - no GitHub Actions needed.
 
-#### Workflow Triggers
-- Push to `main` branch: Automatic deployment
-- Manual trigger: Use GitHub Actions UI
+#### Setup Firebase App Hosting GitHub Connection
 
-The workflow (`.github/workflows/firebase-deploy.yml`) handles:
-1. Building Next.js website
-2. Deploying to Firebase Hosting
-3. Deploying Cloud Functions
-4. Building and deploying Cloud Run services (4 services)
+1. **Enable Firebase App Hosting**
+   ```bash
+   firebase experiments:enable apphosting
+   ```
+
+2. **Connect GitHub Repository**
+   - Go to Firebase Console: https://console.firebase.google.com/project/betgenie-ai/apphosting
+   - Click "Get Started"
+   - Click "Connect GitHub"
+   - Authorize Firebase to access your GitHub
+   - Select repository: `Richard-Mohn/BetGenie`
+   - Select branch: `master`
+
+3. **Automatic Deployment**
+   - Firebase App Hosting watches your GitHub repository
+   - Every push to `master` triggers automatic build and deploy
+   - Uses `apphosting.yaml` for configuration
+   - No GitHub Actions workflow needed
+
+#### Manual Deployment (via Firebase CLI)
+   ```bash
+   # Deploy Firebase App Hosting
+   firebase apphosting:backends:create --project betgenie-ai --region us-central1 --root-directory apps/web
+
+   # Deploy Firebase Services (Functions, Firestore, Storage)
+   firebase deploy --only functions,firestore,storage --project betgenie-ai
+   ```
 
 ## Environment Variables
 
